@@ -20,7 +20,6 @@ const Header: React.FC = () => {
                 width={40}
                 handleDiameter={20}
                 onColor={colors.secundary}
-                offColor=''
             />
         </Container>
     )
